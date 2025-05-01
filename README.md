@@ -10,7 +10,7 @@ Insights Analyst | Data Storyteller | Business Strategist
 
 I hold a degree in Economics and Business Management.  
 📊 Skilled in social listening, digital analytics, and data storytelling.  
-💻 Proficient in Power BI, Tableau, SQL, Python, Brandwatch, Google Analytics.  
+💻 Proficient in Excel, Tableau and SQL, upskilling in Power BI and Python.
 🧩 Experienced in designing analysis methodologies and managing cross-functional projects.  
 🌐 Currently enhancing my skills through the JustIT Data Technician Bootcamp (SQL, Power BI, Python, Azure).
 
