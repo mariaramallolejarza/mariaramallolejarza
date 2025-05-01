@@ -40,21 +40,14 @@ I hold a degree in Economics and Business Management.
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" />
 </a>&nbsp;&nbsp;
-<a href="https://www.brandwatch.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/brandwatch.svg" width="36" height="36" alt="Brandwatch" />
-</a>&nbsp;&nbsp;
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-1.svg" width="36" height="36" alt="Azure" />
-</a>&nbsp;&nbsp;
 </p>
 
 **Skills Snapshot**  
 Languages: Python, SQL  
 Data Manipulation: Pandas, NumPy  
 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-Social Listening: Brandwatch, Audiense  
-Marketing Analytics: Google Analytics, Google Ads, Facebook Ads  
-Other: Excel, PowerPoint, Git, Azure
+Social Listening & Analytics: Brandwatch, Audiense, Google Analytics  
+Cloud & Tools: Microsoft Azure, Excel, PowerPoint, Git, Google Ads, Facebook Ads
 
 ### Socials
 
