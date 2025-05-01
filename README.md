@@ -16,9 +16,17 @@ I hold a degree in Economics and Business Management.
 
 **Projects & Experience**
 
-1. **Consumer Trends Report** for L’Oréal → Led multi-market wellness trend research, directly influencing client strategy and securing follow-up contracts.  
-2. **Automated Brand Tracker** for Coca-Cola → Built a real-time tracking system, saving manual hours and improving brand monitoring efficiency.  
-3. **Freelance Analytics** → Delivered insights for e-commerce and creative clients, blending social listening with performance analytics.
+**Projects & Experience**
+
+1. **Wellness Trends Report** for L’Oréal → Led a two-month multi-market research project analyzing wellness trends, delivering insights that influenced client strategy and secured an extended contract worth over 240 analyst hours.
+
+2. **Brand Reputation Tracker** for Coca-Cola → Designed and implemented an automated brand reputation monitoring system, saving 3+ hours of manual work per week and improving real-time reporting accuracy.
+
+3. **Social Listening & Cultural Insights** → Conducted qualitative social media analyses for global brands (L’Oréal, GSK, Lego, Lipton), using advanced Boolean logic in tools like Brandwatch and Audiense to identify, size, and segment online conversations.
+
+4. **Freelance Analytics Projects** → Provided marketing and insights analysis for clients including Cloud Smart, Dazed Media, and All is Joy Studios. Delivered actionable insights on e-commerce performance, social media campaigns, and consumer behavior trends.
+
+5. **Entrepreneurial Leadership** → Founded and ran La Niña Studio, a fashion brand where I managed everything from product design and creative collaboration to e-commerce operations and market expansion, blending creativity with business strategy.
 
 * 🌍  Based in London  
 * ✉️  You can contact me at [mariaramallolejarza@gmail.com](mailto:mariaramallolejarza@gmail.com)  
